@@ -1,0 +1,16 @@
+.mt-5{
+    margin-top: 5rem!important;
+}
+
+.selected{
+   border: 3px solid #ba8b00;
+}
+.perso
+{
+    background-color: #99C8FA;
+}
+
+.info{
+    margin-left: 50px;
+    width: 30px;
+}
